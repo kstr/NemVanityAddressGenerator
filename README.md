@@ -19,6 +19,6 @@ https://bitbucket.org/kod_5/nemapi
 https://github.com/CodesInChaos/Chaos.NaCl
 
 ## Remarks:
-This project is untested and should be concidered in 'alpha' state at best.
+This project is untested and should be considered in 'alpha' state at best.
 Please report any issues.
 
