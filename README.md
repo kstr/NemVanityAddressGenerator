@@ -21,15 +21,18 @@ Lost of thanks for the awsome work in these repositories:
 
 https://bitbucket.org/kod_5/nemapi
 
+https://github.com/owon/voucher-paper_wallet
+
 https://github.com/CodesInChaos/Chaos.NaCl
 
 ## Remarks:
 This project is untested and should be considered in 'alpha' state at best.
 Please report any issues.
 
-##To-Do
+##To-Do:
   * Porting this project to .Net Core so it can be used cross-platform
   * Performance enhancements.
 
-
-
+##Donations:
+Always welcome at NDKX45-IHCYBP-FEPYE3-LYMZIW-ZENF35-DCFQCA-KOEN
+thx
