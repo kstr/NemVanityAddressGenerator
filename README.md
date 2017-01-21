@@ -1,6 +1,7 @@
 # NemVanityAddressGenerator 0.0.1
 Generate a Nem.io address for either the mainnet or testnet that ends with your string.
 
+You probably think this repo is about you, don't you? (as Carly Simon would say) 
 
 ## Command line switches (optional):
 Use /S <string> to make the address end with your string
@@ -25,4 +26,10 @@ https://github.com/CodesInChaos/Chaos.NaCl
 ## Remarks:
 This project is untested and should be considered in 'alpha' state at best.
 Please report any issues.
+
+##To-Do
+  * Porting this project to .Net Core so it can be used cross-platform
+  * Performance enhancements.
+
+
 
