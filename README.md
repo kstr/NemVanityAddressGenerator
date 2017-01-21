@@ -28,8 +28,8 @@ This project is untested and should be considered in 'alpha' state at best.
 Please report any issues.
 
 ##To-Do
-..* Porting this project to .Net Core so it can be used cross-platform
-..* Performance enhancements.
+  * Porting this project to .Net Core so it can be used cross-platform
+  * Performance enhancements.
 
 
 
