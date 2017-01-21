@@ -13,6 +13,7 @@ Use /T to generate a testnet address
 
 ## Thanks to:
 Lost of thanks for the awsome work in these repositories:
+
 https://bitbucket.org/kod_5/nemapi
 https://github.com/CodesInChaos/Chaos.NaCl
 
