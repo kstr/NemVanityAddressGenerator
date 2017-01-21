@@ -11,6 +11,10 @@ Eg.: /S kstr
 Use /T to generate a testnet address
 
 
+##Know issues:
+Performance is on the low side.  The more characters your vanity string has, the more patient you will need to be.
+
+
 ## Thanks to:
 Lost of thanks for the awsome work in these repositories:
 
