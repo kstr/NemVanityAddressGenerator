@@ -17,7 +17,7 @@ Performance is on the low side.  The more characters your vanity string has, the
 
 
 ## Thanks to:
-Lost of thanks for the awsome work in these repositories:
+Lots of thanks for the awsome work in these repositories:
 
 https://bitbucket.org/kod_5/nemapi
 
